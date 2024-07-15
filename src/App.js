@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './App.css';
 
 function App() {
@@ -21,5 +22,17 @@ function App() {
     </div>
   );
 }
+
+// function App() {
+//   return (
+//     <AuthProvider>
+//      <Router basename="/scholarly">
+//       <Switch>
+//         <Route path="/signup"><SignUp /></Route>
+//         </Switch>
+//       </Router>
+//     </AuthProvider>
+//   );
+// }
 
 export default App;
