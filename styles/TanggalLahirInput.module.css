@@ -1,0 +1,49 @@
+.tanggalLahir {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+    font-weight: 500;
+    display: flex;
+    align-items: flex-end;
+    width: 185.6px;
+    height: 28.4px;
+    
+}
+.mm {
+    width: 67.7px;
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+    
+}
+.vectorIcon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+.mmParent, .yyyyParent, .ddParent {
+    position: relative;
+  }
+.frameParent {
+    display: flex;
+    gap: 10px;
+  }
+
+.tanggalLahirParent {
+    margin-top: 55px;
+    margin-bottom: 15px;
+  }
+
+  .input {
+    width: 60px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }

@@ -1,0 +1,281 @@
+.sideRightIcon {
+    position: absolute;
+    top: 43px;
+    left: 832px;
+    width: 646.3px;
+    height: 896px;
+    object-fit: cover;
+}
+.edumindsAllRights {
+    position: absolute;
+    top: 899.08px;
+    left: 71px;
+    letter-spacing: 0.46px;
+    line-height: 140%;
+    font-family: Lato;
+}
+.daftar1 {
+    position: absolute;
+    top: 205px;
+    left: 293px;
+    font-size: 40px;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+    display: flex;
+    color: #11a6a5;
+    text-align: center;
+    align-items: flex-end;
+    justify-content: center;
+    width: 169.6px;
+}
+.namaLengkap {
+    width: 330.3px;
+    position: relative;
+    line-height: 29.46px;
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+}
+.namaLengkapWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 8.4px;
+}
+.vectorIcon {
+    width: 11.7px;
+    position: relative;
+    height: 6.7px;
+}
+.jurusanYangDiminatiParent {
+    position: absolute;
+    top: 191px;
+    left: 0px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 8.4px;
+    gap: 8.4px;
+}
+.tanggalLahir {
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+    font-weight: 500;
+    display: flex;
+    align-items: flex-end;
+    width: 185.6px;
+    height: 28.4px;
+}
+.mm {
+    width: 67.7px;
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 140%;
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+}
+.mmParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 102px;
+    height: 48.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 8.4px;
+    gap: 8.4px;
+}
+.yyyyParent {
+    position: absolute;
+    top: 0px;
+    left: 222.41px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 102px;
+    height: 48.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 8.4px;
+    gap: 8.4px;
+}
+.ddParent {
+    position: absolute;
+    top: 0px;
+    left: 111.2px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 102px;
+    height: 48.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 8.4px;
+    gap: 8.4px;
+}
+.frameGroup {
+    position: absolute;
+    top: 114.55px;
+    left: 0px;
+    width: 324.4px;
+    height: 48.5px;
+    font-family: Lato;
+}
+.nomerPonselAtauEmailWrapper {
+    position: absolute;
+    top: 268px;
+    left: 0px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 8.4px;
+}
+.kataSandi {
+    position: absolute;
+    top: -2px;
+    left: 0px;
+    line-height: 29.46px;
+    display: flex;
+    align-items: flex-end;
+    width: 311px;
+}
+.fieyeOffIcon {
+    position: absolute;
+    top: 5.85px;
+    left: 351.39px;
+    width: 16.7px;
+    height: 16.7px;
+    overflow: hidden;
+}
+.kataSandiParent {
+    width: 384px;
+    position: relative;
+    height: 28px;
+}
+.frameWrapper {
+    position: absolute;
+    top: 345px;
+    left: 0px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 8.4px;
+}
+.frameContainer {
+    position: absolute;
+    top: 413px;
+    left: 0px;
+    border-radius: 6.69px;
+    background-color: #fff;
+    border: 0.8px solid #1e1e1e;
+    box-sizing: border-box;
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 8.4px;
+}
+.frameParent {
+    position: absolute;
+    top: 297px;
+    left: 204px;
+    width: 392px;
+    height: 461.1px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #858383;
+}
+.daftar2 {
+    width: 330.3px;
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+    font-weight: 600;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.daftarWrapper {
+    position: absolute;
+    top: 780px;
+    left: 204px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6.69px;
+    background-color: #11a6a5;
+    border: 0.8px solid rgba(30, 30, 30, 0);
+    box-sizing: border-box;
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 8.4px;
+    text-align: center;
+    font-size: 20.07px;
+    color: #fff;
+}
+.logo12 {
+    position: absolute;
+    top: 43px;
+    left: 58px;
+    width: 200px;
+    height: 85px;
+    object-fit: cover;
+}
+.daftar {
+    width: 100%;
+    position: relative;
+    background-color: #f0fffe;
+    height: 982px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14.69px;
+    color: #8a8a8a;
+    font-family: Inter;
+}
+

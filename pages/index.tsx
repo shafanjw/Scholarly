@@ -3,17 +3,22 @@ import { useState, useCallback } from 'react';
 import styles from '../styles/Home.module.css';
 import React from 'react';
 import { TextInput, PasswordInput } from '../components/LoginInput';
-
+import { useRouter } from 'next/router';
 
 const Masuk:NextPage = () => {
   	
 	const [phoneOrEmail, setPhoneOrEmail] = useState('');
 	const [password, setPassword] = useState('');
+	const router = useRouter();
   
 	const onGroupContainerClick = useCallback(() => {
 	  setPhoneOrEmail('aksa@aksamail.com');
 	  setPassword('password123');
 	}, []);
+
+	const daftarSekarangClick = useCallback(() => {
+		router.push('/signup'); // Navigasi ke halaman Signup
+	  }, [router]);
   	
   	return (
     		<div className={styles.masuk}>
@@ -43,7 +48,7 @@ const Masuk:NextPage = () => {
               							</div>
               							<div className={styles.belumPunyaAkunParent}>
                 								<div className={styles.belumPunyaAkun}>{`Belum punya akun? `}</div>
-                								<div className={styles.daftarSekarang} onClick={onGroupContainerClick}>Daftar Sekarang</div>
+                								<div className={styles.daftarSekarang} onClick={daftarSekarangClick}>Daftar Sekarang</div>
               							</div>
               							<div className={styles.lineParent}>
                 								<div className={styles.groupChild} />

@@ -37,18 +37,29 @@
   width: 169.6px;
 }
 .inputWrapper {
-  margin-bottom: 20px;
-}
-
-.label {
-  font-size: 16px;
-  margin-bottom: 5px;
+  position: relative;
+  margin-bottom: 15px;
 }
 
 .input {
   width: 100%;
-  padding: 8px;
-  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.input::placeholder {
+  color: #999;
+  font-size: 16px;
+}
+
+.fieyeOffIcon {
+  position: absolute;
+  right: 0px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
 }
 
 .eyeIcon {
@@ -84,9 +95,7 @@
   margin-bottom: 5px;
 }
 
-.fieyeOffIcon {
-  margin-left: 10px;
-}
+
 .frameWrapper {
   position: absolute;
   top: 73.35px;
