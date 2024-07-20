@@ -1,14 +1,19 @@
 import type { NextPage } from 'next';
-import { useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import styles from '../styles/Home.module.css';
 import React from 'react';
+import { TextInput, PasswordInput } from '../components/LoginInput';
 
 
 const Masuk:NextPage = () => {
   	
-  	const onGroupContainerClick = useCallback(() => {
-    		// Add your code here
-  	}, []);
+	const [phoneOrEmail, setPhoneOrEmail] = useState('');
+	const [password, setPassword] = useState('');
+  
+	const onGroupContainerClick = useCallback(() => {
+	  setPhoneOrEmail('aksa@aksamail.com');
+	  setPassword('password123');
+	}, []);
   	
   	return (
     		<div className={styles.masuk}>
@@ -18,15 +23,16 @@ const Masuk:NextPage = () => {
       			<b className={styles.masuk1}>Masuk</b>
       			<div className={styles.groupParent}>
         				<div className={styles.frameParent} onClick={onGroupContainerClick}>
-          					<div className={styles.nomerPonselAtauEmailWrapper}>
-            						<div className={styles.nomerPonselAtau}>Nomer Ponsel atau Email</div>
-          					</div>
-          					<div className={styles.frameWrapper}>
-            						<div className={styles.kataSandiParent}>
-              							<div className={styles.kataSandi}>Kata Sandi</div>
-              							<img className={styles.fieyeOffIcon} alt="" src="fi:eye-off.svg" />
-            						</div>
-          					</div>
+						<TextInput
+						label="Nomer Ponsel atau Email"
+						value={phoneOrEmail}
+						onChange={(e) => setPhoneOrEmail(e.target.value)}
+					/>
+						<PasswordInput
+						label="Kata Sandi"
+						value={password}
+						onChange={(e) => setPassword(e.target.value)}
+					/>
         				</div>
         				<div className={styles.lupaKataSandiContainer}>
           					<span className={styles.lupaKataSandiContainer1}>
