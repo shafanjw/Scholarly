@@ -1,92 +1,284 @@
-.container {
-  min-height: 100vh;
-  padding: 0 0.5rem;
+.sideRightIcon {
+  position: absolute;
+  top: 43px;
+  left: 832.1px;
+  width: 646.3px;
+  height: 896px;
+  object-fit: cover;
+}
+.edumindsAllRights {
+  position: absolute;
+  top: 899.08px;
+  left: 71px;
+  letter-spacing: 0.46px;
+  line-height: 140%;
+}
+.logo12 {
+  position: absolute;
+  top: 43px;
+  left: 58px;
+  width: 200px;
+  height: 85px;
+  object-fit: cover;
+}
+.masuk1 {
+  position: absolute;
+  top: 213px;
+  left: 298px;
+  font-size: 40px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
   display: flex;
-  flex-direction: column;
+  font-family: Inter;
+  color: #11a6a5;
+  text-align: center;
+  align-items: flex-end;
   justify-content: center;
-  align-items: center;
+  width: 169.6px;
 }
-
-.title a {
-  color: #0070f3;
-  text-decoration: none;
-}
-
-.title a:hover,
-.title a:focus,
-.title a:active {
-  text-decoration: underline;
-}
-
-.title {
-  margin: 0 0 1rem;
-  line-height: 1.15;
-  font-size: 3.6rem;
-}
-
-.title {
-  text-align: center;
-}
-
-.title,
-.description {
-  text-align: center;
-}
-
-.description {
-  line-height: 1.5;
-  font-size: 1.5rem;
-}
-
-.grid {
+.nomerPonselAtau {
+  width: 340.9px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 140%;
   display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.nomerPonselAtauEmailWrapper {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 6.9px;
+  background-color: #fff;
+  border: 0.9px solid #1e1e1e;
+  box-sizing: border-box;
+  width: 384px;
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-
-  max-width: 800px;
-  margin-top: 3rem;
+  padding: 10.4px 8.6px;
 }
-
-.card {
-  margin: 1rem;
-  flex-basis: 45%;
-  padding: 1.5rem;
+.kataSandi {
+  position: absolute;
+  top: 4px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  display: flex;
+  align-items: flex-end;
+  width: 321px;
+}
+.fieyeOffIcon {
+  position: absolute;
+  top: 6.04px;
+  left: 329.64px;
+  width: 17.3px;
+  height: 17.3px;
+  overflow: hidden;
+}
+.kataSandiParent {
+  width: 346.9px;
+  position: relative;
+  height: 29.3px;
+}
+.frameWrapper {
+  position: absolute;
+  top: 73.35px;
+  left: 0px;
+  border-radius: 6.9px;
+  background-color: #fff;
+  border: 0.9px solid #1e1e1e;
+  box-sizing: border-box;
+  width: 384px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px 8.6px;
+}
+.frameParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 384px;
+  height: 123.4px;
+  cursor: pointer;
+}
+.span {
+  color: #1e1e1e;
+}
+.klikDisini {
+  color: #4285f4;
+}
+.lupaKataSandiContainer1 {
+  width: 100%;
+}
+.lupaKataSandiContainer {
+  position: absolute;
+  top: 132px;
+  left: 1px;
+  font-size: 15px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  width: 283.9px;
+  color: #6a6a6a;
+}
+.belumPunyaAkun {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 26.78px;
+}
+.daftarSekarang {
+  position: absolute;
+  top: 0px;
+  left: 173px;
+  line-height: 26.78px;
+  color: #4285f4;
+  cursor: pointer;
+}
+.belumPunyaAkunParent {
+  position: absolute;
+  top: 435px;
+  left: 36px;
+  width: 312px;
+  height: 27px;
+  color: #6a6a6a;
+  font-family: Inter;
+}
+.groupChild {
+  position: absolute;
+  top: 25.89px;
+  left: 0px;
+  border-top: 0.9px solid #858383;
+  box-sizing: border-box;
+  width: 384.9px;
+  height: 0.9px;
+}
+.groupItem {
+  position: absolute;
+  top: 0px;
+  left: 98.37px;
+  background-color: #fff;
+  width: 198.5px;
+  height: 50.9px;
+}
+.atauMasukDengan {
+  position: absolute;
+  top: 11.22px;
+  left: 88.02px;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 220.9px;
+  height: 29.3px;
+}
+.lineParent {
+  position: absolute;
+  top: 272.68px;
+  left: 0px;
+  width: 384px;
+  height: 50.9px;
+  text-align: center;
+  font-family: Inter;
+}
+.masuk2 {
+  width: 340.9px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  font-weight: 600;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.masukWrapper {
+  position: absolute;
+  top: 199.33px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 6.9px;
+  background-color: #11a6a5;
+  border: 0.9px solid rgba(30, 30, 30, 0);
+  box-sizing: border-box;
+  width: 384px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px 8.6px;
+  text-align: center;
+  font-size: 20.71px;
+  color: #fff;
+}
+.download1Icon {
+  width: 18.1px;
+  position: relative;
+  height: 19px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.google {
+  width: 79.4px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 140%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.download1Parent {
+  width: 384px;
+  border-radius: 6.9px;
+  background-color: #fff;
+  border: 0.9px solid #8a8a8a;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px 8.6px;
+  gap: 8.6px;
+}
+.button {
+  position: absolute;
+  top: 347px;
+  left: 0px;
+  width: 384px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.groupParent {
+  position: absolute;
+  top: 307px;
+  left: 204px;
+  width: 384px;
+  height: 462px;
+  font-size: 18px;
+  color: #858383;
+}
+.masuk {
+  width: 100%;
+  position: relative;
+  background-color: #f0fffe;
+  height: 982px;
+  overflow: hidden;
   text-align: left;
-  color: inherit;
-  text-decoration: none;
-  border: 1px solid #eaeaea;
-  border-radius: 10px;
-  transition:
-    color 0.15s ease,
-    border-color 0.15s ease;
+  font-size: 14.69px;
+  color: #8a8a8a;
+  font-family: Lato;
 }
 
-.card:hover,
-.card:focus,
-.card:active {
-  color: #0070f3;
-  border-color: #0070f3;
-}
-
-.card h3 {
-  margin: 0 0 1rem 0;
-  font-size: 1.5rem;
-}
-
-.card p {
-  margin: 0;
-  font-size: 1.25rem;
-  line-height: 1.5;
-}
-
-.logo {
-  height: 1em;
-}
-
-@media (max-width: 600px) {
-  .grid {
-    width: 100%;
-    flex-direction: column;
-  }
-}
