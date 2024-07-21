@@ -19,6 +19,10 @@ const Masuk:NextPage = () => {
 	const daftarSekarangClick = useCallback(() => {
 		router.push('/signup'); // Navigasi ke halaman Signup
 	  }, [router]);
+
+	const masukButtonClick = useCallback(() => {
+		router.push('/subscription'); // Navigasi ke halaman subscription
+	  }, [router]);
   	
   	return (
     		<div className={styles.masuk}>
@@ -56,7 +60,7 @@ const Masuk:NextPage = () => {
                 								<div className={styles.atauMasukDengan}>atau masuk dengan</div>
               							</div>
               							<div className={styles.masukWrapper}>
-                								<div className={styles.masuk2}>Masuk</div>
+                								<div className={styles.masuk2} onClick={masukButtonClick}>Masuk</div>
               							</div>
               							<div className={styles.button}>
                 								<div className={styles.download1Parent}>
