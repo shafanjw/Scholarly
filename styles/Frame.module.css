@@ -1,0 +1,113 @@
+.pilihIconProfilmu {
+    width: 696.1px;
+    position: relative;
+    line-height: 68.21px;
+    font-weight: 600;
+    display: inline-block;
+}
+.jawabanYangTelah {
+    width: 723.1px;
+    position: relative;
+    font-size: 30.32px;
+    line-height: 56.84px;
+    font-weight: 500;
+    color: #686767;
+    text-align: left;
+    display: none;
+}
+.pilihIconProfilmuParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 21.3px;
+}
+.frameChild {
+    width: 501.7px;
+    position: relative;
+    height: 303.9px;
+    object-fit: contain;
+}
+.frameItem {
+    width: 142.3px;
+    position: relative;
+    height: 142.3px;
+    object-fit: cover;
+}
+.frameInner {
+    width: 142.3px;
+    position: relative;
+    height: 146.3px;
+    object-fit: contain;
+}
+.frameIcon {
+    width: 142.3px;
+    position: relative;
+    height: 142.3px;
+    object-fit: contain;
+}
+.frameGroup {
+    width: 506.9px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 13px 40px;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16.03px;
+    background-color: #11a6a5;
+    width: 635.2px;
+    height: 92.2px;
+}
+.simpan {
+    position: absolute;
+    top: 26.94px;
+    left: 51.2px;
+    line-height: 35.52px;
+    font-weight: 600;
+    display: inline-block;
+    width: 532.2px;
+}
+.rectangleParent {
+    width: 635.2px;
+    position: relative;
+    height: 92.2px;
+    cursor: pointer;
+}
+.groupWrapper {
+    filter: drop-shadow(0px 0px 7.09px rgba(2, 57, 27, 0.3));
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 29.33px;
+    color: #fff;
+}
+.frameParent {
+    width: 789px;
+    position: relative;
+    box-shadow: 0px 0px 7.09px rgba(2, 57, 27, 0.3);
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 35px 33px;
+    box-sizing: border-box;
+    gap: 49px;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    text-align: center;
+    font-size: 37.89px;
+    color: #595454;
+    font-family: Inter;
+}
+

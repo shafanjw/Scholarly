@@ -1,0 +1,1204 @@
+.profileChild {
+    position: absolute;
+    top: 124.47px;
+    left: calc(50% - 451.71px);
+    border-radius: 127.46px;
+    width: 189.7px;
+    height: 189.7px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.backgroundUserInfo {
+    position: absolute;
+    top: 125px;
+    left: 559px;
+    border-radius: 11px;
+    background-color: #36c8c7;
+    width: 603px;
+    height: 265px;
+}
+.aksaDewantara {
+    position: absolute;
+    top: 0px;
+    left: 0.95px;
+    font-size: 22.76px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 276px;
+    height: 37px;
+}
+.tentangSaya {
+    position: absolute;
+    top: 180px;
+    left: 0px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 138.5px;
+    height: 27.5px;
+}
+.haloKenalinNama {
+    position: absolute;
+    top: 203.89px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 610.7px;
+    height: 20.9px;
+}
+.bergabungSejak2019 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 150.8px;
+    height: 21.8px;
+}
+.kotaBandung {
+    position: absolute;
+    top: 0px;
+    left: 166.91px;
+    line-height: 150%;
+    display: inline-block;
+    width: 93.9px;
+    height: 21.8px;
+}
+.tryoutSelesai {
+    position: absolute;
+    top: 0px;
+    left: 282.6px;
+    line-height: 150%;
+    display: inline-block;
+    width: 110px;
+    height: 21.8px;
+}
+.frameChild {
+    position: absolute;
+    top: 6.64px;
+    left: 150.78px;
+    border-radius: 50%;
+    background-color: #fecf29;
+    width: 9.5px;
+    height: 9.5px;
+}
+.frameItem {
+    position: absolute;
+    top: 6.64px;
+    left: 267.43px;
+    border-radius: 50%;
+    background-color: #fecf29;
+    width: 9.5px;
+    height: 9.5px;
+}
+.bergabungSejak2019Parent {
+    position: absolute;
+    top: 0px;
+    left: 19.92px;
+    width: 423px;
+    height: 21.8px;
+}
+.groupChild {
+    position: absolute;
+    top: 6.64px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #fecf29;
+    width: 9.5px;
+    height: 9.5px;
+}
+.frameParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 442.9px;
+    height: 21.8px;
+}
+.groupWrapper {
+    position: absolute;
+    top: 36.99px;
+    left: 0px;
+    width: 498.8px;
+    height: 21.8px;
+}
+.tujuan {
+    position: absolute;
+    top: 71.13px;
+    left: 0px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 617.4px;
+    height: 21.8px;
+}
+.kampusImpian {
+    position: absolute;
+    top: 124.23px;
+    left: 0px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 617.4px;
+    height: 21.8px;
+}
+.mendapatkanSkorUtbk {
+    position: absolute;
+    top: 92.94px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 617.4px;
+    height: 21.8px;
+}
+.universitasGadjahMada {
+    position: absolute;
+    top: 146.04px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 617.4px;
+    height: 21.8px;
+}
+.aksaDewantaraParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 617.4px;
+    height: 224.8px;
+}
+.profileInner {
+    position: absolute;
+    top: 142px;
+    left: 592px;
+    width: 549px;
+    height: 225px;
+    color: #e2fffd;
+}
+.profileItem {
+    position: absolute;
+    top: 186px;
+    left: 422px;
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+.backgroundKotakIcon {
+    position: absolute;
+    top: 465px;
+    left: 375.66px;
+    border-radius: 5.9px;
+    width: 756.7px;
+    height: 1307px;
+}
+.skorTryOut {
+    margin: 0;
+}
+.skorTryOutContainer {
+    position: absolute;
+    top: 20.44px;
+    left: 6.13px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 202.3px;
+    height: 52.1px;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8.17px;
+    background-color: #fecf29;
+    width: 122.6px;
+    height: 40.9px;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 70.5px;
+    height: 27.6px;
+}
+.wrapper {
+    position: absolute;
+    top: 7.15px;
+    left: 25.55px;
+    width: 70.5px;
+    height: 27.6px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 83.79px;
+    left: 45.98px;
+    width: 122.6px;
+    height: 40.9px;
+    font-size: 20.44px;
+}
+.skorTryOutRataRataParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8.17px;
+    background-color: #f9fffb;
+    border: 3.1px solid #11a6a5;
+    box-sizing: border-box;
+    width: 214.6px;
+    height: 145.1px;
+}
+.span {
+    font-size: 14.1px;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 83.79px;
+    left: 45.98px;
+    width: 122.6px;
+    height: 40.9px;
+    font-size: 20.4px;
+}
+.rankingKamuSaatIniParent {
+    position: absolute;
+    top: 0px;
+    left: 234.01px;
+    border-radius: 8.17px;
+    background-color: #f9fffb;
+    border: 3.1px solid #11a6a5;
+    box-sizing: border-box;
+    width: 214.6px;
+    height: 145.1px;
+}
+.menit1 {
+    font-size: 10.6px;
+}
+.waktuTryOutRataRataParent {
+    position: absolute;
+    top: 0px;
+    left: 468.01px;
+    border-radius: 8.17px;
+    background-color: #f9fffb;
+    border: 3.1px solid #11a6a5;
+    box-sizing: border-box;
+    width: 214.6px;
+    height: 145.1px;
+}
+.frameGroup {
+    position: absolute;
+    top: 546.14px;
+    left: 410.93px;
+    width: 682.6px;
+    height: 145.1px;
+    text-align: center;
+    font-size: 16.35px;
+    color: #11a6a5;
+}
+.subjekYangBisa {
+    position: absolute;
+    top: 24.25px;
+    left: 31.11px;
+    font-size: 15.82px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 302.1px;
+    height: 22.7px;
+}
+.groupChild1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4.22px;
+    background-color: #fecf29;
+    border: 0.5px solid #11a6a5;
+    box-sizing: border-box;
+    width: 110.7px;
+    height: 27.4px;
+}
+.penalaranUmum {
+    position: absolute;
+    top: 4.73px;
+    left: 3.16px;
+    line-height: 150%;
+    font-weight: 500;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+}
+.groupDiv {
+    position: absolute;
+    top: 70.13px;
+    left: 31.11px;
+    width: 110.7px;
+    height: 27.4px;
+}
+.saatIniSkor {
+    position: absolute;
+    top: 108.58px;
+    left: 31.11px;
+    line-height: 150%;
+    font-weight: 500;
+    text-align: justify;
+    display: inline-block;
+    width: 613.2px;
+    height: 83.2px;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+}
+.subjekYangBisaDitingkatkanParent {
+    position: absolute;
+    top: 1228.74px;
+    left: 418.87px;
+    border-radius: 4.22px;
+    background-color: #f9fffb;
+    border: 1.6px solid #11a6a5;
+    box-sizing: border-box;
+    width: 682.3px;
+    height: 209.9px;
+    font-size: 12.66px;
+}
+.kamuJagoDalam {
+    position: absolute;
+    top: 101.98px;
+    left: 35.6px;
+    line-height: 150%;
+    font-weight: 500;
+    display: inline-block;
+    width: 587.7px;
+    height: 80.1px;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+}
+.penilaianUmum {
+    position: absolute;
+    top: 25.9px;
+    left: 30.98px;
+    font-size: 15.24px;
+    line-height: 150%;
+    font-weight: 600;
+    text-align: left;
+    display: inline-block;
+    width: 291px;
+    height: 21.8px;
+}
+.lineDiv {
+    position: absolute;
+    top: 23.95px;
+    left: 0px;
+    border-top: 3.6px solid #11a6a5;
+    box-sizing: border-box;
+    width: 289.2px;
+    height: 3.6px;
+}
+.kekurangan {
+    position: absolute;
+    top: 0px;
+    left: 100.28px;
+    font-weight: 500;
+    display: inline-block;
+    width: 91.6px;
+}
+.lineParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 285.6px;
+    height: 23.9px;
+}
+.groupChild2 {
+    position: absolute;
+    top: 23.87px;
+    left: 0px;
+    border-top: 3.6px solid #acacac;
+    box-sizing: border-box;
+    width: 299.2px;
+    height: 3.6px;
+}
+.kelebihan {
+    position: absolute;
+    top: 0px;
+    left: 103.16px;
+    font-weight: 500;
+    display: inline-block;
+    width: 89px;
+}
+.lineGroup {
+    position: absolute;
+    top: 0.08px;
+    left: 293.59px;
+    width: 295.6px;
+    height: 23.9px;
+    color: #acacac;
+}
+.groupParent {
+    position: absolute;
+    top: 67.56px;
+    left: 34.03px;
+    width: 589.2px;
+    height: 23.9px;
+    text-align: center;
+    font-size: 11.17px;
+    color: #11a6a5;
+}
+.kamuJagoDalamMenyelesaikanParent {
+    position: absolute;
+    top: 1003.85px;
+    left: 418.87px;
+    border-radius: 4.06px;
+    background-color: #f9fffb;
+    border: 1.5px solid #11a6a5;
+    box-sizing: border-box;
+    width: 682.3px;
+    height: 197.6px;
+    text-align: justify;
+    font-size: 12.19px;
+}
+.rekomendasi {
+    position: absolute;
+    top: 27.28px;
+    left: 29.38px;
+    line-height: 150%;
+    font-weight: 600;
+    display: inline-block;
+    width: 300.6px;
+    height: 22.6px;
+}
+.berdasarkanAnalisisPerforma {
+    position: absolute;
+    top: 66.06px;
+    left: 29.38px;
+    font-size: 12.59px;
+    line-height: 150%;
+    font-weight: 500;
+    white-space: pre-wrap;
+    text-align: justify;
+    display: inline-block;
+    width: 611.7px;
+    height: 69.7px;
+    transform:  rotate(-0.3deg);
+    transform-origin: 0 0;
+}
+.frameInner {
+    position: absolute;
+    top: 13.12px;
+    left: 19.94px;
+    border-radius: 5.77px;
+    background-color: #e2fffd;
+    width: 32px;
+    height: 32px;
+}
+.buttonIcon {
+    position: absolute;
+    top: 13.64px;
+    left: 20.46px;
+    border-radius: 4.2px;
+    width: 31.5px;
+    height: 31.5px;
+    object-fit: cover;
+}
+.penalaranUmum1 {
+    position: absolute;
+    top: 54.56px;
+    left: 20.46px;
+    line-height: 150%;
+    font-weight: 500;
+    display: inline-block;
+    width: 166.3px;
+    height: 15.7px;
+}
+.frameDiv {
+    position: absolute;
+    top: 130.11px;
+    left: 29.38px;
+    border-radius: 4.2px;
+    background-color: #36c8c7;
+    border: 1.6px solid #11a6a5;
+    box-sizing: border-box;
+    width: 316.4px;
+    height: 83.9px;
+    font-size: 10.49px;
+    color: #fff;
+}
+.frameChild1 {
+    position: absolute;
+    top: 177.85px;
+    left: 224.02px;
+    border-radius: 3.71px;
+    background-color: #ffdc62;
+    width: 95px;
+    height: 26.2px;
+}
+.kerjakanTryout {
+    position: absolute;
+    top: 184.67px;
+    left: 227.17px;
+    font-size: 9.44px;
+    line-height: 150%;
+    text-align: center;
+    display: inline-block;
+    width: 88.7px;
+    height: 22.6px;
+}
+.rekomendasiParent {
+    position: absolute;
+    top: 1465.97px;
+    left: 420.64px;
+    border-radius: 4.2px;
+    background-color: #f9fffb;
+    border: 1.6px solid #11a6a5;
+    box-sizing: border-box;
+    width: 678.9px;
+    height: 252.4px;
+    font-size: 15.74px;
+}
+.image2Icon {
+    width: 220.3px;
+    position: relative;
+    height: 75.5px;
+    object-fit: cover;
+}
+.supportingText {
+    align-self: stretch;
+    position: relative;
+    line-height: 25.18px;
+}
+.logoAndSupportingText {
+    width: 335.8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 33.6px;
+}
+.heading {
+    align-self: stretch;
+    position: relative;
+    line-height: 20.99px;
+    font-weight: 600;
+}
+.text {
+    position: relative;
+    line-height: 25.18px;
+    font-weight: 500;
+}
+.buttonBase {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.footerLink {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.footerLinks {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12.6px;
+    font-size: 16.79px;
+}
+.footerLinksColumn {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16.8px;
+}
+.text8 {
+    position: relative;
+    line-height: 18.89px;
+    font-weight: 500;
+}
+.badgeBase {
+    border-radius: 16.79px;
+    background-color: #f2f4f7;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2.1px 8.4px;
+}
+.badge {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    mix-blend-mode: normal;
+    text-align: center;
+    font-size: 12.59px;
+    color: #101828;
+}
+.footerLink7 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8.4px;
+}
+.links {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 33.6px;
+    font-size: 14.69px;
+}
+.content {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 67.2px;
+}
+.container1 {
+    position: absolute;
+    top: 67.15px;
+    left: 105.98px;
+    width: 1343.1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 33.6px;
+    box-sizing: border-box;
+}
+.footerText {
+    flex: 1;
+    position: relative;
+    letter-spacing: 0.52px;
+    line-height: 140%;
+}
+.socialIcon {
+    width: 25.2px;
+    position: relative;
+    height: 25.2px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.socialIcon4 {
+    width: 25.2px;
+    position: relative;
+    height: 25.2px;
+}
+.socialIcons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25.2px;
+}
+.content1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 33.6px;
+}
+.container2 {
+    position: absolute;
+    top: 30.43px;
+    left: 67.15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 33.6px;
+}
+.section1 {
+    position: absolute;
+    top: 334.71px;
+    left: 0px;
+    background-color: #101828;
+    width: 1510.9px;
+    height: 86px;
+    color: #8a8a8a;
+    font-family: Lato;
+}
+.section {
+    align-self: stretch;
+    position: relative;
+    height: 420.8px;
+}
+.footer1 {
+    width: 1510.9px;
+    background-color: rgba(17, 166, 165, 0.67);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.footer {
+    position: absolute;
+    top: 1956px;
+    left: calc(50% - 757px);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16.79px;
+    color: #f0fffe;
+}
+.groupChild3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 0px 3.76px rgba(2, 57, 27, 0.3);
+    border-radius: 6.01px;
+    background-color: #cd2d2d;
+    width: 119.5px;
+    height: 36.8px;
+}
+.logOut {
+    position: absolute;
+    top: 8.27px;
+    left: 36.82px;
+    line-height: 18.94px;
+    font-weight: 500;
+}
+.groupIcon {
+    position: absolute;
+    top: 9.77px;
+    left: 9.02px;
+    width: 18px;
+    height: 18px;
+}
+.rectangleParent1 {
+    position: absolute;
+    top: 78px;
+    left: 1272.54px;
+    width: 119.5px;
+    height: 36.8px;
+    text-align: center;
+    font-size: 16.57px;
+    color: #f8f8f8;
+}
+.settingsIcon {
+    position: absolute;
+    height: 1.4%;
+    width: 2.31%;
+    top: 3.32%;
+    right: 17.27%;
+    bottom: 95.29%;
+    left: 80.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.laporanHasilBelajar {
+    position: absolute;
+    top: 487.93px;
+    left: 416.23px;
+    font-size: 22.12px;
+    line-height: 150%;
+    display: inline-block;
+    color: #e2fffd;
+    width: 324.4px;
+    height: 28.7px;
+}
+.backgroundKotak {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4.57px;
+    background-color: #f9fffb;
+    width: 679.1px;
+    height: 254px;
+}
+.groupChild4 {
+    position: absolute;
+    top: 4.2px;
+    left: 20.26px;
+    border-right: 1.7px solid #515151;
+    box-sizing: border-box;
+    width: 1.7px;
+    height: 131.8px;
+}
+.lineIcon {
+    position: absolute;
+    top: 4.41px;
+    left: 500.42px;
+    border-radius: 4.57px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 130.1px;
+    object-fit: contain;
+}
+.groupChild5 {
+    position: absolute;
+    top: 4.41px;
+    left: 340.08px;
+    border-radius: 4.57px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 130.1px;
+    object-fit: contain;
+}
+.groupChild6 {
+    position: absolute;
+    top: 4.41px;
+    left: 179.74px;
+    border-radius: 4.57px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 130.1px;
+    object-fit: contain;
+}
+.groupChild7 {
+    position: absolute;
+    top: 133.6px;
+    left: 18.54px;
+    border-top: 1.7px solid #515151;
+    box-sizing: border-box;
+    width: 633.9px;
+    height: 1.7px;
+}
+.penalaran {
+    margin-block-start: 0;
+    margin-block-end: 8px;
+}
+.penalaranUmum2 {
+    width: 134.3px;
+    position: relative;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    height: 33.2px;
+    flex-shrink: 0;
+}
+.memahamiBacaanDanContainer {
+    width: 132px;
+    position: relative;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    height: 32.6px;
+    flex-shrink: 0;
+}
+.pengetahuanKuantitatif {
+    width: 133.2px;
+    position: relative;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    height: 32.6px;
+    flex-shrink: 0;
+}
+.pengetahuanDanPemahamanContainer {
+    width: 141.2px;
+    position: relative;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    height: 32.6px;
+    flex-shrink: 0;
+}
+.penalaranUmumParent {
+    position: absolute;
+    top: 140.48px;
+    left: 29.71px;
+    width: 624.2px;
+    height: 12.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 27.4px;
+    font-size: 12.35px;
+}
+.groupChild8 {
+    position: absolute;
+    top: 42.33px;
+    left: 0px;
+    background-color: #11a6a5;
+    width: 28.2px;
+    height: 38.8px;
+}
+.rectangleIcon {
+    position: absolute;
+    top: 0px;
+    left: 38.8px;
+    width: 28.2px;
+    height: 81.1px;
+}
+.groupChild9 {
+    position: absolute;
+    top: 14.99px;
+    left: 75.84px;
+    background-color: #ffdc62;
+    width: 28.2px;
+    height: 67px;
+}
+.rectangleParent2 {
+    position: absolute;
+    top: 52.92px;
+    left: 39.69px;
+    width: 104.1px;
+    height: 82px;
+}
+.groupChild10 {
+    position: absolute;
+    top: 14.11px;
+    left: 0px;
+    background-color: #11a6a5;
+    width: 28.2px;
+    height: 90.8px;
+}
+.groupChild11 {
+    position: absolute;
+    top: 29.1px;
+    left: 38.8px;
+    width: 28.2px;
+    height: 75.8px;
+}
+.groupChild12 {
+    position: absolute;
+    top: 0px;
+    left: 75.85px;
+    background-color: #ffdc62;
+    width: 28.2px;
+    height: 105.8px;
+}
+.rectangleParent3 {
+    position: absolute;
+    top: 29.99px;
+    left: 204.6px;
+    width: 104.1px;
+    height: 105.8px;
+}
+.groupChild13 {
+    position: absolute;
+    top: 34.39px;
+    left: 0px;
+    background-color: #11a6a5;
+    width: 28.2px;
+    height: 80.3px;
+}
+.groupChild14 {
+    position: absolute;
+    top: 11.46px;
+    left: 38.8px;
+    width: 28.2px;
+    height: 103.2px;
+}
+.groupChild15 {
+    position: absolute;
+    top: 0px;
+    left: 75.84px;
+    background-color: #ffdc62;
+    width: 28.2px;
+    height: 115.5px;
+}
+.rectangleParent4 {
+    position: absolute;
+    top: 18.52px;
+    left: 368.64px;
+    width: 104.1px;
+    height: 115.5px;
+}
+.groupChild16 {
+    position: absolute;
+    top: 30.87px;
+    left: 0px;
+    background-color: #11a6a5;
+    width: 28.2px;
+    height: 49.4px;
+}
+.groupChild17 {
+    position: absolute;
+    top: 20.28px;
+    left: 38.8px;
+    width: 28.2px;
+    height: 60px;
+}
+.groupChild18 {
+    position: absolute;
+    top: 0px;
+    left: 75.85px;
+    background-color: #ffdc62;
+    width: 28.2px;
+    height: 81.1px;
+}
+.rectangleParent5 {
+    position: absolute;
+    top: 52.92px;
+    left: 525.62px;
+    width: 104.1px;
+    height: 81.1px;
+}
+.div2 {
+    position: absolute;
+    top: 128.76px;
+    left: 8.82px;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    width: 10.6px;
+    height: 10.6px;
+}
+.div3 {
+    position: absolute;
+    top: 59.09px;
+    left: 2.65px;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    width: 16.8px;
+    height: 10.6px;
+}
+.div4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    width: 16.8px;
+    height: 10.6px;
+}
+.lineContainer {
+    position: absolute;
+    top: 13.23px;
+    left: 12.35px;
+    width: 653.9px;
+    height: 152.9px;
+}
+.frameChild2 {
+    position: absolute;
+    top: 0px;
+    left: 7.94px;
+    background-color: #11a6a5;
+    width: 28.2px;
+    height: 8.8px;
+}
+.mei {
+    position: absolute;
+    top: 11.46px;
+    left: 0px;
+    line-height: 11.43px;
+    font-weight: 500;
+    display: inline-block;
+    width: 44.1px;
+    height: 8.8px;
+}
+.rectangleParent6 {
+    width: 44.1px;
+    position: relative;
+    height: 20.3px;
+}
+.frameChild3 {
+    position: absolute;
+    top: 0px;
+    left: 7.94px;
+    background-color: #91c7c4;
+    width: 28.2px;
+    height: 8.8px;
+}
+.frameChild4 {
+    position: absolute;
+    top: 0px;
+    left: 7.94px;
+    background-color: #ffdc62;
+    width: 28.2px;
+    height: 8.8px;
+}
+.frameContainer {
+    position: absolute;
+    top: 214.31px;
+    left: 283.98px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13.2px;
+    font-size: 10.58px;
+}
+.backgroundKotakParent {
+    position: absolute;
+    top: 720.76px;
+    left: 410.93px;
+    width: 679.1px;
+    height: 254px;
+    text-align: center;
+    font-size: 8.82px;
+}
+.navbarHome2Child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #11a6a5;
+    width: 1512px;
+    height: 53px;
+}
+.logo11 {
+    width: 100px;
+    position: relative;
+    height: 42.6px;
+    object-fit: cover;
+}
+.home {
+    position: relative;
+    line-height: 25.2px;
+    font-weight: 500;
+}
+.homeParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 21px;
+}
+.frameIcon {
+    width: 43px;
+    position: relative;
+    height: 41px;
+    object-fit: cover;
+}
+.logo11Parent {
+    position: absolute;
+    top: 3px;
+    left: calc(50% - 661px);
+    height: 47px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 400px;
+}
+.navbarHome2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 756px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1512px;
+    height: 53px;
+    font-size: 14px;
+    color: #101828;
+}
+.profile {
+    width: 100%;
+    position: relative;
+    background-color: #e2fffd;
+    height: 982px;
+    overflow-y: auto;
+    text-align: left;
+    font-size: 13.28px;
+    color: #515151;
+    font-family: Inter;
+}
+
