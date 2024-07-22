@@ -770,6 +770,9 @@
     left: 36.82px;
     line-height: 18.94px;
     font-weight: 500;
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    /* Other styles for the logOut text */
+      
 }
 .groupIcon {
     position: absolute;
@@ -787,6 +790,7 @@
     text-align: center;
     font-size: 16.57px;
     color: #f8f8f8;
+    cursor: pointer;
 }
 .settingsIcon {
     position: absolute;

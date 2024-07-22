@@ -4,10 +4,17 @@ import PortalPopup from "../components/PortalPopup";
 import styles from '../styles/Profile.module.css';
 import HomeNavbar from '../components/HomeNavbar'
 import ProfileNavbar from '../components/ProfileNavbar'
+import { useRouter } from 'next/router';
 import HomeFooters from '../components/HomeFooters'
 
 
 const Profile = () => {
+	const router = useRouter();
+
+	const logoutClick = useCallback(() => {
+		router.push('/'); // Navigasi ke halaman Signup
+	  }, [router]);
+
   	const [isFrameOpen, setFrameOpen] = useState(false);
   	
   	const openFrame = useCallback(() => {
@@ -124,7 +131,7 @@ const Profile = () => {
         				<div className={styles.kerjakanTryout}>Kerjakan Tryout</div>
       			</div>
                 
-      			<div className={styles.rectangleParent1}>
+      			<div className={styles.rectangleParent1} onClick={logoutClick}>
         				<div className={styles.groupChild3} />
         				<div className={styles.logOut}>Log Out</div>
         				<img className={styles.groupIcon} alt="" src="Group 427318255.png" />

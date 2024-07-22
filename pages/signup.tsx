@@ -4,6 +4,7 @@ import styles from '../styles/Daftar.module.css';
 import React from 'react';
 import { TextInput, PasswordInput, PickInput } from '../components/LoginInput';
 import TanggalLahirInput from '../components/TanggalLahirInput';
+import { useRouter } from 'next/router';
 
 
 const Signup:NextPage = () => {
@@ -13,7 +14,7 @@ const Signup:NextPage = () => {
 	const [jurusanYangDiminati, setJurusanYangDiminati] = useState('');
 	const [password, setPassword] = useState('');
 	const [tanggalLahir, setTanggalLahir] = useState({ dd: '', mm: '', yyyy: '' });
-
+	const router = useRouter();
   
 	const onGroupContainerClick = useCallback(() => {
         setPhoneOrEmail('aksa@aksamail.com');
@@ -23,6 +24,10 @@ const Signup:NextPage = () => {
 	  setPassword('password123');
 	  setTanggalLahir({ dd: '01', mm: '01', yyyy: '2000' });
 	}, []);
+
+	const daftarButtonClick = useCallback(() => {
+		router.push('/'); // Navigasi ke halaman Login
+	  }, [router]);
   	
   	return (
     		<div className={styles.daftar}>
@@ -64,7 +69,7 @@ const Signup:NextPage = () => {
 					/>
         				</div>
                         <div className={styles.daftarWrapper}>
-                								<div className={styles.daftar2}>Daftar</div>
+                								<div className={styles.daftar2} onClick={daftarButtonClick}>Daftar</div>
               							</div>
               							</div>
               							</div>);
