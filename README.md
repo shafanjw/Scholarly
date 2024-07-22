@@ -2,6 +2,9 @@
 
 Scholarly is an innovative application designed to help Indonesian students prepare for the UTBK (Ujian Tulis Berbasis Komputer). Our mission is to provide students with the tools and resources they need to succeed in their exams.
 
+![Scholarly](public/readmeDaftar.png)
+![Scholarly](public/readmeProfile.png)
+
 ## Features (Developing in progress)
 
 - **Comprehensive Study Materials:** Access a wide range of study materials tailored to the UTBK syllabus.
